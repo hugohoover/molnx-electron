@@ -1,0 +1,17 @@
+#+title:worklog,electron based app
+#+options: toc:nil
+#+startup: showall indent
+#+startup: hidestars
+
+** installation
+   SCHEDULED: <2017-01-11 Wed 18:12>
+=npm i --save-dev electron=
+=sudo npm i -g electron=
+
+** first app
+a =index.html= based app.
+
+*** 蛋白質結構分析
+
+*** 臨床醫學實驗室數據系統
+*** 掛號系統

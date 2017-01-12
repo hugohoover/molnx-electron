@@ -1,0 +1,18 @@
+{
+  "name": "molnx",
+  "version": "1.0.0",
+  "description": "bioinformatics and data science",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.4.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "molnx"
+  ],
+  "author": "huwhoover",
+  "license": "MIT"
+}
